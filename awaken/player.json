@@ -157,8 +157,8 @@
     },
     {
       "id": "diligent",
-      "tier": 2,
-      "value": 153
+      "tier": 1,
+      "value": 148
     },
     {
       "id": "daily-grinder",
@@ -194,6 +194,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-24",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-23",
         "cleared": 3,
         "total": 3
@@ -225,7 +230,7 @@
       }
     ],
     "perfectDays": 2,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
     "questsDone": 12,
     "bosses": [
@@ -240,5 +245,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-23T20:26:15.924Z"
+  "syncedAt": "2026-10-24T19:28:55.432Z"
 }
