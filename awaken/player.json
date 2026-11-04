@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-04T22:36:39.868Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "veteran",
       "from": "1",
       "to": "2",
@@ -158,12 +165,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 145
+      "value": 146
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 22
+      "value": 25
     },
     {
       "id": "boss-slayer",
@@ -182,8 +189,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-04",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-03",
         "cleared": 0,
@@ -279,15 +291,15 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 0,
+    "perfectDays": 5,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 22,
+    "questsDone": 25,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "average",
@@ -296,5 +308,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-03T22:16:52.471Z"
+  "syncedAt": "2026-11-04T22:36:39.868Z"
 }

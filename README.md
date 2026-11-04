@@ -38,7 +38,7 @@
 
 <p align="center">
 <img src="awaken/oracle-dark.svg" width="49%" alt="gthuy0705: oracle scroll">
-<img src="awaken/daily-dark.svg" width="49%" alt="gthuy0705: penalty zone">
+<img src="awaken/daily-dark.svg" width="49%" alt="gthuy0705: daily quest">
 </p>
 
 <p align="center">
