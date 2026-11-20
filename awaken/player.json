@@ -1,8 +1,8 @@
 {
   "login": "gthuy0705",
   "level": 6,
-  "overall": "C",
-  "overallPercentile": 0.7142792923085131,
+  "overall": "B",
+  "overallPercentile": 0.7929277071579073,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -25,9 +25,9 @@
     },
     {
       "code": "INT",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "B",
+      "percentile": 0.7872854778967882
     },
     {
       "code": "VIT",
@@ -49,6 +49,20 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-20T23:04:17.242Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "E",
+      "to": "B",
+      "at": "2026-11-20T23:04:17.242Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -186,12 +200,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 141
+      "value": 142
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "perfect-week",
@@ -201,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 32
+      "value": 35
     },
     {
       "id": "boss-slayer",
@@ -221,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 1,
@@ -387,10 +406,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 5,
-    "run": 0,
+    "perfectDays": 6,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 32,
+    "questsDone": 35,
     "bosses": [
       "2026-11-16",
       "2026-10-26",
@@ -405,5 +424,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-19T23:33:38.154Z"
+  "syncedAt": "2026-11-20T23:04:17.242Z"
 }
