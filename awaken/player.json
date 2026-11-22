@@ -97,13 +97,6 @@
       "from": "0",
       "to": "3",
       "at": "2026-11-19T23:33:38.154Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "C",
-      "to": "D",
-      "at": "2026-11-15T21:45:06.569Z"
     }
   ],
   "achievements": [
@@ -135,7 +128,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 13
+      "value": 12
     },
     {
       "id": "early-bird",
@@ -215,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 37
+      "value": 39
     },
     {
       "id": "boss-slayer",
@@ -235,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-21",
         "cleared": 2,
@@ -414,7 +412,7 @@
     "perfectDays": 6,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 37,
+    "questsDone": 39,
     "bosses": [
       "2026-11-16",
       "2026-10-26",
@@ -430,5 +428,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-21T22:10:15.221Z"
+  "syncedAt": "2026-11-22T22:27:45.265Z"
 }
