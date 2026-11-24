@@ -50,6 +50,20 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-24T03:19:11.001Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-24T03:19:11.001Z"
+    },
+    {
       "kind": "overall",
       "subject": "Overall rank",
       "from": "C",
@@ -90,13 +104,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-11-19T23:33:38.154Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "flawless",
-      "from": "0",
-      "to": "3",
-      "at": "2026-11-19T23:33:38.154Z"
     }
   ],
   "achievements": [
@@ -128,7 +135,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 12
+      "value": 11
     },
     {
       "id": "early-bird",
@@ -137,8 +144,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 1,
-      "value": 29
+      "tier": 2,
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -193,12 +200,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 139
+      "value": 140
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
@@ -208,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 39
+      "value": 42
     },
     {
       "id": "boss-slayer",
@@ -228,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 2,
@@ -409,10 +421,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 0,
+    "perfectDays": 7,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 39,
+    "questsDone": 42,
     "bosses": [
       "2026-11-16",
       "2026-10-26",
@@ -428,5 +440,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-22T22:27:45.265Z"
+  "syncedAt": "2026-11-24T03:19:11.001Z"
 }
