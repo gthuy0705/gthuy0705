@@ -76,34 +76,6 @@
       "from": "E",
       "to": "B",
       "at": "2026-11-20T23:04:17.242Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "5",
-      "to": "6",
-      "at": "2026-11-19T23:33:38.154Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "D",
-      "to": "C",
-      "at": "2026-11-19T23:33:38.154Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "D",
-      "to": "C",
-      "at": "2026-11-19T23:33:38.154Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "yolo",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-19T23:33:38.154Z"
     }
   ],
   "achievements": [
@@ -200,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 142
+      "value": 144
     },
     {
       "id": "daily-grinder",
@@ -215,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 45
+      "value": 47
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "escape-artist",
@@ -235,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-26",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-25",
         "cleared": 1,
@@ -434,8 +411,9 @@
     "perfectDays": 7,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 45,
+    "questsDone": 47,
     "bosses": [
+      "2026-11-23",
       "2026-11-16",
       "2026-10-26",
       "2026-10-19"
@@ -450,5 +428,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-26T00:59:03.293Z"
+  "syncedAt": "2026-11-27T01:00:15.344Z"
 }
